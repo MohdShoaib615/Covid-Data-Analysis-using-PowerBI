@@ -8,5 +8,7 @@ Using appropriate charts, we have shown different visualizations on how the deat
 WE HAVE ANALYZED THE FOLLOWING RESULTS:-
 
 1- Most no of new cases are coming from the USA.
+
 2- Most no of deaths are also occuring in the USA.
+
 3- The reason might be that - USA has least no of fully vaccinated persons.
